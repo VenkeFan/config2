@@ -4,5 +4,8 @@ defineClass('KLProjectViewController', {
   },
   tableView: function() {
     return null;
+  },
+  switchProjectBtnAction: function(sender) {
+  
   }
 })
