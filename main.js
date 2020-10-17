@@ -1,4 +1,4 @@
-defineClass('KLLoginViewController', {
+defineClass('KLProjectViewController', {
   viewDidLoad: function() {
    
   }
